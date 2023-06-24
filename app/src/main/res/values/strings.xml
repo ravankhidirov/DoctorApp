@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doctor App</string>
+
+    <string name="button_hint">Search doctor, medicines etc</string>
+</resources>
